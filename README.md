@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jj2pan
-- 👀 I’m interested in: Machine learning, Deep learning and Neural networks 
+- 👀 I’m interested in: Deep learning and Neural networks 
 - 🌱 I’m currently learning: Data Science
 - 💞️ I’m looking to collaborate on: any opportunity to further my knowledge in my field while gaining real world experience and even earn some money
 - 📫 How to reach me: Instagram @jj2pan or Email me at kimanikuriajames@gmail.com 
